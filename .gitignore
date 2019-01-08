@@ -5,6 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Aa]ssets/AssetStoreTools*
+.idea/
 
 # Visual Studio cache directory
 .vs/
@@ -42,3 +43,6 @@ sysinfo.txt
 
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
+
+Assets/Plugins/Editor
+Assets/Plugins/Editor.meta
